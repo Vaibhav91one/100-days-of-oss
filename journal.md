@@ -13,13 +13,13 @@
 
 ## Day 1
 
-- **Project**: Sample Blog Website
-- **Description**: Set up the project and created a basic homepage layout.
+- **Project**: ReactJS Authentication Using MongoDB Initializing
+- **Description**: Set up the project.
 - **Tasks completed**: 
-  - Installed Angular CLI and generated a new project.
-  - Designed the homepage layout with HTML and CSS.
-- **Challenges faced**: Understanding CSS Flexbox for layout design.
+  - Initialized project using Nextjs.
+  - Learnt more about Nextjs
+- **Challenges faced**: I was confused first about how to create the project, by how I mean which build tool to use.
 - **Resources used**: 
-  - Angular CLI documentation (https://angular.io/cli)
-  - CSS Flexbox guide on MDN (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+  - Vite Vs ReactApp Vs Nextapp (https://www.youtube.com/watch?v=mLNq3SanPkk&t=6s)
+  - More about NextJs (https://www.youtube.com/watch?v=wd639F9aKU0&list=PLpPqplz6dKxWBD36B5FKdYOiaOBYJBUt2&index=2)
+- **OpenSauced Highlight**: [https://github.com/Vaibhav91one/react_auth]
