@@ -23,3 +23,17 @@
   - Vite Vs ReactApp Vs Nextapp (https://www.youtube.com/watch?v=mLNq3SanPkk&t=6s)
   - More about NextJs (https://www.youtube.com/watch?v=wd639F9aKU0&list=PLpPqplz6dKxWBD36B5FKdYOiaOBYJBUt2&index=2)
 - **OpenSauced Highlight**: [https://github.com/Vaibhav91one/react_auth]
+
+## Day 2
+
+- **Project**: Project Structure Research and cleaning up repo.
+- **Description**: Researching about the structure of the project what services to use, pages and much more.
+- **Tasks completed**: 
+  - Cleaned up the repo
+  - Learnt about different way of creating auth service.
+- **Challenges faced**: I was really had a limited time today, So, I researched about the structure for the project and read about many different blogs.
+- **Resources used**: 
+  - freeCodeCamp (https://www.freecodecamp.org/news/how-to-build-a-fullstack-authentication-system-with-react-express-mongodb-heroku-and-netlify/)
+  - MongoDB Developer Center (https://www.mongodb.com/developer/products/atlas/email-password-authentication-react/)
+  - Bezcode (https://www.bezkoder.com/react-node-mongodb-auth/)
+- **OpenSauced Highlight**: [https://github.com/Vaibhav91one/react_auth]
