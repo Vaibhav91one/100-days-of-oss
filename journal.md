@@ -37,3 +37,14 @@
   - MongoDB Developer Center (https://www.mongodb.com/developer/products/atlas/email-password-authentication-react/)
   - Bezcode (https://www.bezkoder.com/react-node-mongodb-auth/)
 - **OpenSauced Highlight**: [https://github.com/Vaibhav91one/react_auth]
+
+## Day 3
+
+- **Project**: Learnt More about MongoDB.
+- **Description**: MongoDB CRUD Operations. Apart from Development did some good amount of problem solving.
+- **Tasks completed**: 
+  - MongoDB CRUd Operations
+- **Challenges faced**: I was finding a good resource for learning, Then I came to know that mongoDB have their own university online to teach and its awesome.
+- **Resources used**: 
+  - MongoDB (https://learn.mongodb.com)
+  - **OpenSauced Highlight**: [https://github.com/Vaibhav91one/react_auth]
