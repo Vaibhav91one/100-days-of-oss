@@ -48,3 +48,14 @@
 - **Resources used**: 
   - MongoDB (https://learn.mongodb.com)
   - **OpenSauced Highlight**: [https://github.com/Vaibhav91one/react_auth]
+
+## Day 4
+
+- **Project**: React with chart libraries such as chartjs and apexcharts.
+- **Description**: I have been attending MLH global hack week and have been following Data visualization with react. It is a good way for me to refresh my react skills.
+- **Tasks completed**: 
+  - Half way to Data visualization using react and chart libraries
+- **Challenges faced**: I actually wanted to sync my forked repo with the original one to get updates. had a little trouble but ulimately was able to get updates.
+- **Resources used**: 
+  - Global Hack week (https://ghw.mlh.io/)
+  - **OpenSauced Highlight**: [https://github.com/Vaibhav91one/RealTimeDataReactApp/]
