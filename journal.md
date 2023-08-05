@@ -59,3 +59,14 @@
 - **Resources used**: 
   - Global Hack week (https://ghw.mlh.io/)
   - **OpenSauced Highlight**: [https://github.com/Vaibhav91one/RealTimeDataReactApp/]
+
+## Day 5
+
+- **Project**: React Sentimental Analysis.
+- **Description**: Did sentimental analysis project with react and sentiment library.
+- **Tasks completed**: 
+  - working sentiment analysis.
+- **Challenges faced**: Interface needs more effort and more features.
+- **Resources used**: 
+  - Global Hack week (https://ghw.mlh.io/)
+  - **OpenSauced Highlight**: [https://github.com/Vaibhav91one/sentiment-analysis]
