@@ -70,3 +70,11 @@
 - **Resources used**: 
   - Global Hack week (https://ghw.mlh.io/)
   - **OpenSauced Highlight**: [https://github.com/Vaibhav91one/sentiment-analysis]
+
+  ## Day 6
+
+- **Project**: Didn't get much time today, so fideled around with Web Share API and responsive layouts.
+- **Description**: WebShare API and Vue.
+- **Tasks completed**: 
+  - implementing Web Share API use in vuejs.
+- **Challenges faced**: nothing in particular it was pretty straight forward.
