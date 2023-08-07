@@ -78,3 +78,11 @@
 - **Tasks completed**: 
   - implementing Web Share API use in vuejs.
 - **Challenges faced**: nothing in particular it was pretty straight forward.
+
+ ## Day 7
+
+- **Project**: Next UI
+- **Description**: Integrating NextJS with NextUI.
+- **Tasks completed**: 
+  - Learnt about NextUI, Framer motion, tailwind.
+- **Challenges faced**:  Was trying to configure Nextui, framer motion, tailwind css with nextjs kept getting errors.
