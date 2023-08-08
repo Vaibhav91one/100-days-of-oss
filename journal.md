@@ -86,3 +86,11 @@
 - **Tasks completed**: 
   - Learnt about NextUI, Framer motion, tailwind.
 - **Challenges faced**:  Was trying to configure Nextui, framer motion, tailwind css with nextjs kept getting errors.
+
+ ## Day 8
+
+- **Project**: Next UI with pnpm
+- **Description**: I was still getting the same errors with the npm project. So, I tried using pnpm which is more faster and efficient than npm, but still no luck.
+- **Tasks completed**: 
+  - Learnt about pnpm.
+- **Challenges faced**:  Was trying to configure Nextui, framer motion, tailwind css with nextjs kept getting errors.
