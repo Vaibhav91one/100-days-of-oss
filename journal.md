@@ -94,3 +94,11 @@
 - **Tasks completed**: 
   - Learnt about pnpm.
 - **Challenges faced**:  Was trying to configure Nextui, framer motion, tailwind css with nextjs kept getting errors.
+
+ ## Day 9
+
+- **Project**: NextJs Auth with NextUI
+- **Description**: Finally setuped the NextJS auth project with NextUI. My biggest mistake to not look at docs. The docs had everything. There was a single command to execute which did all the work for me.
+- **Tasks completed**: 
+  - Setuped the Project.
+- **Challenges faced**:  Errors and erros and not going through docs wasted my time.
