@@ -102,3 +102,11 @@
 - **Tasks completed**: 
   - Setuped the Project.
 - **Challenges faced**:  Errors and erros and not going through docs wasted my time.
+
+ ## Day 10
+
+- **Project**: UI changes
+- **Description**: Made UI changes to the home page, added some icons, buttons, made changes to configurations. 
+- **Tasks completed**: 
+  - Adding icons, buttons
+- **Challenges faced**: had problem finding the correct icon as svg were being used.
