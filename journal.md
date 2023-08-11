@@ -110,3 +110,11 @@
 - **Tasks completed**: 
   - Adding icons, buttons
 - **Challenges faced**: had problem finding the correct icon as svg were being used.
+
+## Day 11
+
+- **Project**: Routes
+- **Description**: made few UI changes and setuped the routes I wil need.. 
+- **Tasks completed**: 
+  - UI and Routes
+- **Challenges faced**: had to go through the doc to setup routes and got stuck at 404 erorr when the problem was only to make the folder lowercase. Also, had a test today, so was not able to contribute so much.
