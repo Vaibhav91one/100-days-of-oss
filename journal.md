@@ -118,3 +118,11 @@
 - **Tasks completed**: 
   - UI and Routes
 - **Challenges faced**: had to go through the doc to setup routes and got stuck at 404 erorr when the problem was only to make the folder lowercase. Also, had a test today, so was not able to contribute so much.
+
+## Day 12
+
+- **Project**: Login Page
+- **Description**: Added the login form to route login
+- **Tasks completed**: 
+  - Login page with form
+- **Challenges faced**: faced problem adding components and image, still working on image part.
