@@ -126,3 +126,11 @@
 - **Tasks completed**: 
   - Login page with form
 - **Challenges faced**: faced problem adding components and image, still working on image part.
+
+## Day 13
+
+- **Project**: MongoDB 
+- **Description**: I think i have established a very basic UI, so, now want to do some DB work
+- **Tasks completed**: 
+  - MongoDB Replace and Delete 
+- **Challenges faced**: none.
