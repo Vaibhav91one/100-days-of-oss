@@ -134,3 +134,11 @@
 - **Tasks completed**: 
   - MongoDB Replace and Delete 
 - **Challenges faced**: none.
+
+## Day 14
+
+- **Project**: Today, I learnt about redux and more About mongoDb will start integrating redux tommorow
+- **Description**: Redux state management and MongoDB specific query.
+- **Tasks completed**: 
+  - Redux and mongo
+- **Challenges faced**: Today was really a bad day for me. Had to electricity in the morning, later had a mock test at uni and in the evening had a meeting. so didn't get much time for anything.
