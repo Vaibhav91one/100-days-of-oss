@@ -142,3 +142,11 @@
 - **Tasks completed**: 
   - Redux and mongo
 - **Challenges faced**: Today was really a bad day for me. Had to electricity in the morning, later had a mock test at uni and in the evening had a meeting. so didn't get much time for anything.
+
+## Day 15
+
+- **Project**: learnt about Aggregation in MongoDB
+- **Description**: Aggregation concept is basically generating a single document of all the filtered data.
+- **Tasks completed**: 
+  - learning of Aggregation in MongoDb and aggregation pipeline in MongoDB.
+- **Challenges faced**: Today, really got busy in taking another test.
