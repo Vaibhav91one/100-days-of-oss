@@ -150,3 +150,12 @@
 - **Tasks completed**: 
   - learning of Aggregation in MongoDb and aggregation pipeline in MongoDB.
 - **Challenges faced**: Today, really got busy in taking another test.
+
+## Day 16 - 17
+
+- **Project**: Nothing on 16th, learnt about mongoDB indexes on 17th and dived into different essentials for a full stack application
+- **Description**: Indexes helps in increasing performance of searching operation in the database.
+- **Tasks completed**: 
+    Learnt about different essentails for react.
+    Learnt about MongoDB indexes.
+- **Challenges faced**: nothing practical today, only theoritical.
