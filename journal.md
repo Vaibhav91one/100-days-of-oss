@@ -159,3 +159,11 @@
     Learnt about different essentails for react.
     Learnt about MongoDB indexes.
 - **Challenges faced**: nothing practical today, only theoritical.
+
+## Day 18
+
+- **Project**: learnt about mongoDB Atlas Search
+- **Description**: MongoDB provides a releavance based search based on open source lucene algorithm, this allows developer not to write code for searching in DB.
+- **Tasks completed**: 
+    Learnt about MongoDB Atlas Search.
+- **Challenges faced**: The concept is really complex needs to be practiced for understanding completly with syntax.
