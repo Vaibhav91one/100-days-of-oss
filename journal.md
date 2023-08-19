@@ -167,3 +167,11 @@
 - **Tasks completed**: 
     Learnt about MongoDB Atlas Search.
 - **Challenges faced**: The concept is really complex needs to be practiced for understanding completly with syntax.
+
+## Day 19
+
+- **Project**: learnt about MongoDB Data Modeling
+- **Description**: MongoDB uses a schema flexible approach rather that a strict schema approach.
+- **Tasks completed**: 
+    Learnt about MongoDB Data Modeling.
+- **Challenges faced**: None.
