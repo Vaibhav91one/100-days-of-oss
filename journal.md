@@ -175,3 +175,11 @@
 - **Tasks completed**: 
     Learnt about MongoDB Data Modeling.
 - **Challenges faced**: None.
+
+## Day 20
+
+- **Project**: Complete intro to MongoDB by MongoDB university
+- **Description**: MongoDB Acid Transactions.
+- **Tasks completed**: 
+    Complete MongoDB course and learnt about transactions.
+- **Challenges faced**: None.
