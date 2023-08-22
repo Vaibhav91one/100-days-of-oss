@@ -183,3 +183,10 @@
 - **Tasks completed**: 
     Complete MongoDB course and learnt about transactions.
 - **Challenges faced**: None.
+
+## Day 21 - 22
+
+- **Project**: Revising JS for Node and Express
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
