@@ -190,3 +190,10 @@
 - **Description**: 
 - **Tasks completed**: 
 - **Challenges faced**: None.
+
+## Day 23
+
+- **Project**: Revising JS concpets 
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
