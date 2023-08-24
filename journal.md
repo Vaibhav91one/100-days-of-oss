@@ -197,3 +197,10 @@
 - **Description**: 
 - **Tasks completed**: 
 - **Challenges faced**: None.
+
+## Day 24
+
+- **Project**: Revising JS concpets closures, setTimeout(), System Design, Tailwind Project
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
