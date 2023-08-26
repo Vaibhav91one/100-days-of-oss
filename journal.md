@@ -211,3 +211,10 @@
 - **Description**: 
 - **Tasks completed**: 
 - **Challenges faced**: None.
+
+## Day 25
+
+- **Project**: JS concepts such as Event loops, Event Listeners, Web API, First Class functions, call stack queue, Microtask Queue, Main Thread
+- **Description**: Learnt new stuff
+- **Tasks completed**: Learnt new stuff
+- **Challenges faced**: None.
