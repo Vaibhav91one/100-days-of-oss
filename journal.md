@@ -218,3 +218,17 @@
 - **Description**: Learnt new stuff + tailwind Project
 - **Tasks completed**: Learnt new stuff + tailwind Project
 - **Challenges faced**: None.
+
+## Day 26
+
+- **Project**: JS concepts such as Event loops, Event Listeners, Web API, First Class functions, call stack queue, Microtask Queue, Main Thread and tailwind Project
+- **Description**: Learnt new stuff + tailwind Project
+- **Tasks completed**: Learnt new stuff + tailwind Project
+- **Challenges faced**: None.
+
+## Day 27 - 28
+
+- **Project**: JS concepts such as High order functions, Promises, Callback Hell and tailwind Project
+- **Description**: Learnt new stuff + tailwind Project
+- **Tasks completed**: Learnt new stuff + tailwind Project
+- **Challenges faced**: None.
