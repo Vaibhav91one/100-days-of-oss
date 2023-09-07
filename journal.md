@@ -232,3 +232,74 @@
 - **Description**: Learnt new stuff + tailwind Project
 - **Tasks completed**: Learnt new stuff + tailwind Project
 - **Challenges faced**: None.
+
+## Day 29
+
+- **Project**: DSA focused
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
+## Day 30
+
+- **Project**: Completed the tailwind Project with 
+@jsmasterypro.Will learn about pseudo elements in tailwind and make changes accordingly.
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
+
+## Day 31
+
+- **Project**: - pseudo elements and classes in tailwind✅ ,Responsive layout ✅, Syntax of different properties✅
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
+
+## Day 32
+
+- **Project**: NULL
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
+
+## Day 33
+
+- **Project**: MLH work
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
+
+## Day 34
+
+- **Project**: Refine Framework
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
+
+## Day 35
+
+- **Project**: Oauth 
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
+
+## Day 36
+
+- **Project**: Experimenting with Shadcn
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
+
+## Day 37
+
+- **Project**: Node CRUD with MongoDB
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
+
+## Day 38
+
+- **Project**: - Node and MongoDB: 
+   Bcrypt, JWT, Private routes, CRUD, ACID transaction
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
