@@ -303,3 +303,10 @@
 - **Description**: 
 - **Tasks completed**: 
 - **Challenges faced**: None.
+
+## Day 39
+
+- **Project**: - Node and MongoDB: Aggregation Pipeline and Started learning about GitLab CI/CD
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
