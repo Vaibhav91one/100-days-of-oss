@@ -310,3 +310,11 @@
 - **Description**: 
 - **Tasks completed**: 
 - **Challenges faced**: None.
+
+## Day 40
+
+- **Project**: - GitLab CI/CD:
+   Pipeline Flow, Graphs, Variables, writing a pipeline.
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
