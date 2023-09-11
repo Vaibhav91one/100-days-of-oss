@@ -318,3 +318,10 @@
 - **Description**: 
 - **Tasks completed**: 
 - **Challenges faced**: None.
+
+## Day 41-42
+
+- **Project**: - GitLab CI/CD complete
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
