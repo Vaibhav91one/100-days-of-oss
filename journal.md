@@ -325,3 +325,10 @@
 - **Description**: 
 - **Tasks completed**: 
 - **Challenges faced**: None.
+
+## Day 43
+
+- **Project**: - PERN stack Project
+- **Description**: Postgres, Node, react and express
+- **Tasks completed**: Learning about postgres
+- **Challenges faced**: None.
