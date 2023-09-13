@@ -332,3 +332,10 @@
 - **Description**: Postgres, Node, react and express
 - **Tasks completed**: Learning about postgres
 - **Challenges faced**: None.
+
+## Day 44
+
+- **Project**: - null
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
