@@ -339,3 +339,10 @@
 - **Description**: 
 - **Tasks completed**: 
 - **Challenges faced**: None.
+
+## Day 45
+
+- **Project**: - Applied to jobs/ learnt about static elastic IP in AWS, connection with SQL in Django and Node
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
