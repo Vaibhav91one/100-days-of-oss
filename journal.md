@@ -346,3 +346,10 @@
 - **Description**: 
 - **Tasks completed**: 
 - **Challenges faced**: None.
+
+## Day 46 - 48
+
+- **Project**: - SQL  (Basics, CRUD, Subqueries, Aggregation, Joins, Indexes)
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
