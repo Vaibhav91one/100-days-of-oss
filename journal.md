@@ -353,3 +353,10 @@
 - **Description**: 
 - **Tasks completed**: 
 - **Challenges faced**: None.
+
+## Day 49 - 52
+
+- **Project**: - Diving into AWS with AWS cloud quest
+- **Description**: 
+- **Tasks completed**: 
+- **Challenges faced**: None.
